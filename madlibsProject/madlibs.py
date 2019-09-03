@@ -3,3 +3,9 @@ costume = raw_input("Enter a noun: ") #noun
 verb = raw_input("Enter a verb ending in -ing: ") #verb
 
 partsOfSpeech = [color,costume,verb]
+
+def fullMadlib():
+
+    # do stuff
+
+fullMadlib() #call function
