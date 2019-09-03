@@ -1,6 +1,6 @@
-color = raw_input("Enter a color: ") # adjective
-costume = raw_input("Enter a noun: ") #noun
-verb = raw_input("Enter a verb ending in -ing: ") #verb
+color = input("Enter a color: ") # adjective
+costume = input("Enter a noun: ") #noun
+verb = input("Enter a verb ending in -ing: ") #verb
 
 partsOfSpeech = [color,costume,verb]
 
